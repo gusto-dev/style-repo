@@ -22,5 +22,6 @@
   "files": [
     "src/style/"
   ],
-  "style": "src/style/index.scss"
+  "style": "src/style/index.scss",
+  "packageManager": "yarn@3.3.1"
 }
