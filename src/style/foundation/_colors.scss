@@ -1,9 +1,11 @@
 @use "sass:color";
 
-$primary: #312312;
+$primary: blue;
 $secondary: #6c757d;
 
 a {
   color: $primary;
   font-size: 12px;
+  font-weight: normal;
+  text-decoration: none;
 }
